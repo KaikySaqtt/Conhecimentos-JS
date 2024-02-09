@@ -1,2 +1,2 @@
 # Conhecimentos-JS
-Arquivos meu de Java Script
+Arquivos das aulas de Javascript
