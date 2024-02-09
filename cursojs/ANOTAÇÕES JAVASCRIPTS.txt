@@ -1,0 +1,45 @@
+				ANOTAÇÕES JAVASCRIPTS:
+
+VARIAVEL NUMBER: são todo numero sem variar o tipo com virgula ou não mas sómente numeros
+BOOLEAN; é true or false
+STRING: é o resto sendo ele o conjunto de caracteris 
+O + irar somas quando for dois number e quando for o string só irar ter efeito de adicionar ao texto
+para string para o number é number (comando) e ao contrario é string(comando)
+podemos usar ${variavel} entre crases ao inves de +
+
+
+
+
+ na aritimetica usamos % para aquela divisão escrita e ele pega só o resto e não oque vai para baixo do numero  que ta sendo divida 
+ e o ** é a potencia e é ao quadrao tipo 5 elevado a quadrado que da 25 em todas as linguagem tem a prioridade de operações tipo "5+3 / 2"que da 6.5
+ usamos parenteses para fazer algo primeiro tipo "(5 + 2) / 2" a "()" da a prioridade 
+ primeiros é sempre o parenteses depois a potencia"**" e apos é todos esses em igualdade mas caso eles estejam junto é por qual aparecer primeiro (* / %) e depois desses são + - 
+podemos tambem usar o ++ ou -- tanto faz que se colocado antes adiciona uma unidade primeiro e se depois adicona ela depois como naqueles passos do portugol
+	se usar === compara a clase 
+	! = não 
+	&& = pode ter dois false ou true mas para da true preciso das duas coisas pedidas 
+	|| = igual o de cima mas com um sendo true ja da true 
+	relacional vem antes de comparativo 
+	na ordem ! && ||
+	? para o verdadeiro e : para o false
+
+	 window.document.write escrita em JAVASCRIPTS
+
+	 comando para sentir o mouse da tela nome: mouseenter
+	 mover o mouse: mousemove
+	 clicar e segura:mousedown
+	 tirar apos isso:mouseup
+	 clicar: click
+
+	 switch:
+	 break = pare
+
+	 EStudar o html 5 e css
+	 estudar fuction
+	 estudar objetos
+	 estudar modularização
+	 estudar RegEx
+	 estudar JSON
+	 estudar AJAX
+	 estudar Nodejs
+	 
